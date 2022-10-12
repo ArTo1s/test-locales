@@ -1,9 +1,4 @@
 {
-    "some": {
-        "magic": {
-            "key": "My magic english"
-        }
-    },
     "new": {
         "key": {
             "translation": "Some value"
