@@ -3,5 +3,10 @@
         "key": {
             "translation": "Some value stage"
         }
+    },
+    "main": {
+        "stage": {
+            "key": "Stage key"
+        }
     }
 }
