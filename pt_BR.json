@@ -5,6 +5,9 @@
         }
     },
     "main": {
+        "stage": {
+            "key": "Stage BR"
+        },
         "key": "MAIN BR"
     }
 }

@@ -5,6 +5,9 @@
         }
     },
     "main": {
+        "stage": {
+            "key": "Stage key"
+        },
         "key": "Main branch"
     }
 }
