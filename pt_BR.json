@@ -3,5 +3,10 @@
         "key": {
             "translation": "Brazil stage"
         }
+    },
+    "main": {
+        "stage": {
+            "key": "Stage BR"
+        }
     }
 }
