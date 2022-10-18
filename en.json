@@ -3,5 +3,8 @@
         "key": {
             "translation": "Some value stage"
         }
+    },
+    "main": {
+        "key": "Main branch"
     }
 }
