@@ -8,6 +8,7 @@
         "stage": {
             "key": "Stage key"
         },
-        "key": "Main branch"
+        "key": "Main branch",
+        "2": "Main 2"
     }
 }
