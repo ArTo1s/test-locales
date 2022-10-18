@@ -10,5 +10,8 @@
         },
         "key": "Main branch",
         "2": "Main 2"
+    },
+    "stage": {
+        "2": "Stage 3"
     }
 }
