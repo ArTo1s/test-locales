@@ -7,6 +7,7 @@
     "main": {
         "stage": {
             "key": "Stage PT"
-        }
+        },
+        "key": "Main PT"
     }
 }
