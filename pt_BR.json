@@ -3,5 +3,8 @@
         "key": {
             "translation": "Brazil stage"
         }
+    },
+    "main": {
+        "key": "MAIN BR"
     }
 }
